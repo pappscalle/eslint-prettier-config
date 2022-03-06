@@ -52,8 +52,7 @@ If not already available, create a `.eslintrc.json` in the project root and make
   "rules": {}
 }
 ```
-Install the ESLint extension in VS Code (https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
+Install the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension in VS Code 
 
 Create a `.vscode/settings.json` file with the following content:
 
