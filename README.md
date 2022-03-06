@@ -1,4 +1,4 @@
-# Set up ESLint + Prettier for React and Testing Library / Jest VS Code
+## Set up ESLint + Prettier for React and Testing Library / Jest VS Code
 
 
 #### Prerequisites
