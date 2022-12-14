@@ -67,6 +67,8 @@ Add `.vscode` to `.gitignore`
 
 #### Setup Prettier
 
+Install the [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extension in VS Code
+
 Add defaultFormatter and formatOnSave settings to `.vscode/settings.json`:
 
 ```
